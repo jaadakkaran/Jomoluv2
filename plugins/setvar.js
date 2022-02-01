@@ -18,8 +18,8 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐌𝐢𝐬𝐬 𝐇𝐞𝐥𝐞𝐧𝐚 𝐛𝐨𝐭.
-  
+    ʜᴀʟʟᴏ👋 ї αʍ α JΩSHU∇ΔSΣR ᥇ꪮꪗ🍃.
+     ©ᴊσѕнυνα ѕєя💝      
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
@@ -90,11 +90,12 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using 𝐌𝐢𝐬𝐬 𝐇𝐞𝐥𝐞𝐧𝐚 bot ❣️*
+     *𝙷𝚊𝚙𝚙𝚢 ЦSIИG ᴊᴏꜱʜᴜᴠᴀꜱᴇʀ ʙᴏᴛ ❣️*
+         ẉa.me/@ᴊͥᴏͭsᷤʜᴜᷟνͤᴀ
+         ẉa.me/@ᴊͥᴏͭsᷤʜᴜᷟνͤᴀ
 
 
-
-      ═════💢💢═════
+         ═════💢💢═════
 `}) 
 
 }));
